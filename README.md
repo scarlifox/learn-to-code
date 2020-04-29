@@ -11,6 +11,11 @@
 - Dive into Python3 https://diveintopython3.problemsolving.io/
 - Dive into Python https://linux.die.net/diveintopython/html/
 
+- Introduction to Computer Science and Programming Using Python
+    - edx https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+    - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
+    - https://www.youtube.com/watch?v=Q_itdXI3YeE
+
 - Programming Foundations: Real-World Examples   
   https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html
 
