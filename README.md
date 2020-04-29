@@ -19,10 +19,10 @@
 
 ## Databases
 - Stanford db course
-- Use the inted Luke
+- Use the index Luke
 
 ## Object Oriented Programming
 
 
 ## HTML, CSS
-- HTML & CSS Design and Build Websites
+- HTML & CSS Design and Build Websites https://wtf.tw/ref/duckett.pdf
