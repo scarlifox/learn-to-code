@@ -8,19 +8,19 @@
 
 - Google Python class https://developers.google.com/edu/python
 
-- Dive into Python3 https://diveintopython3.problemsolving.io/
-- Dive into Python https://linux.die.net/diveintopython/html/
+- Dive into Python3 ([book][dive into python3])
+- Dive into Python ([book][dive into python])
 
 - Introduction to Computer Science and Programming Using Python
-    - edx https://www.edx.org/course/introduction-to-computer-science-and-programming-7
-    - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
-    - https://www.youtube.com/watch?v=Q_itdXI3YeE
+    - [course on edx][edx Introduction to Computer Science and Programming]
+    - [course at MIT][MIT Introduction to Computer Science and Programming in Python]
+    - [lecture videos on Youtube](https://www.youtube.com/watch?v=Q_itdXI3YeE)
 
-- Programming Foundations: Real-World Examples   
-  https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html
+- Programming Foundations: Real-World Examples [lynda.com/Python-tutorials][Programming-Fundamentals-Real-World]
 
-- Jessica McKellar A hands-on introduction to Python for beginning programmers  
-  https://www.youtube.com/watch?v=rkx5_MRAV3A
+- Jessica McKellar A hands-on introduction to Python for beginning programmers ([video][Jessica McKellar introduction to Python])
+  
+- Variables in Python https://realpython.com/python-variables/
 
 ## Databases
 - Stanford db course
@@ -30,4 +30,13 @@
 
 
 ## HTML, CSS
-- HTML & CSS Design and Build Websites https://wtf.tw/ref/duckett.pdf
+- HTML & CSS Design and Build Websites by Jon Duckett ([book][Jon Duckett HTML & CSS])
+
+
+[dive into python3]: https://diveintopython3.problemsolving.io/
+[dive into python]: https://linux.die.net/diveintopython/html/
+[MIT Introduction to Computer Science and Programming in Python]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
+[edx Introduction to Computer Science and Programming]: https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+[Jessica McKellar introduction to Python]: https://www.youtube.com/watch?v=rkx5_MRAV3A
+[Programming-Fundamentals-Real-World]: https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html
+[Jon Duckett HTML & CSS]: https://wtf.tw/ref/duckett.pdf
