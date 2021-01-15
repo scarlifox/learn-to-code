@@ -5,16 +5,15 @@
 	- https://cs50.harvard.edu/college/2020/spring/
 	- https://www.youtube.com/user/cs50tv
 	- https://www.youtube.com/user/cs50tv/playlists
+	
+- [CS50's Web Programming with Python and JavaScript](cs50 web programming with python)
+- Harvard CS50 Guide: How to Pick the Right Course for You ([freeCodeCamp article](cs50 freeCodeCamp))
+
 
 - Google Python class https://developers.google.com/edu/python
 
 - Dive into Python3 ([book][dive into python3])
 - Dive into Python ([book][dive into python])
-
-- Introduction to Computer Science and Programming Using Python
-    - [course on edx][edx Introduction to Computer Science and Programming]
-    - [course at MIT][MIT Introduction to Computer Science and Programming in Python]
-    - [lecture videos on Youtube][Youtube Introduction to Computer Science]
 
 - Programming Foundations: Real-World Examples [lynda.com/Python-tutorials][Programming-Fundamentals-Real-World]
 - Programming Foundations: [Fundamentals]
@@ -45,3 +44,5 @@
 [Fundamentals]: https://www.lynda.com/JavaScript-tutorials/Programming-Foundations-Basics/779751-2.html
 [Beyond the Fundamentals]: https://www.lynda.com/Python-tutorials/Programming-Foundations-Beyond-Fundamentals/2818144-2.html
 [Jon Duckett HTML & CSS]: https://wtf.tw/ref/duckett.pdf
+[cs50 web programming with python]: https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript
+[cs50 freeCodeCamp]: https://www.freecodecamp.org/news/harvard-cs50-guide/#cs50-the-expanded-offering
