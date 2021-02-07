@@ -1,26 +1,31 @@
 # Programming 101
 
 - CS50
-	- https://www.edx.org/course/cs50s-introduction-to-computer-science
+	- CS50's Introduction to Computer Science ([edx.org](https://www.edx.org/course/cs50s-introduction-to-computer-science))
 	- https://cs50.harvard.edu/college/2020/spring/
 	- https://www.youtube.com/user/cs50tv
 	- https://www.youtube.com/user/cs50tv/playlists
-	
-- [CS50's Web Programming with Python and JavaScript](cs50 web programming with python)
-- Harvard CS50 Guide: How to Pick the Right Course for You ([freeCodeCamp article](cs50 freeCodeCamp))
 
+- [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) Introduction to technology for students who don’t (yet!) consider themselves computer persons.
+- [CS50's Web Programming with Python and JavaScript][cs50 web programming with python]
+- Harvard CS50 Guide: How to Pick the Right Course for You ([freeCodeCamp article][cs50 freeCodeCamp])
+<br>
 
 - Google Python class https://developers.google.com/edu/python
+<br>
 
 - Dive into Python3 ([book][dive into python3])
 - Dive into Python ([book][dive into python])
+<br>
 
 - Programming Foundations: Real-World Examples [lynda.com/Python-tutorials][Programming-Fundamentals-Real-World]
 - Programming Foundations: [Fundamentals]
 - Programming Foundations: [Beyond the Fundamentals]
+<br>
 
 - Jessica McKellar A hands-on introduction to Python for beginning programmers ([video][Jessica McKellar introduction to Python])
-  
+<br>
+
 - Variables in Python https://realpython.com/python-variables/
 
 ## Databases
