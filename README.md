@@ -1,5 +1,7 @@
 # Programming 101
 
+CS50
+
 - CS50's Introduction to Computer Science
 	- Online course at your own pace ([edx.org](https://www.edx.org/course/cs50s-introduction-to-computer-science))
 	- [CS50 on Youtube](https://www.youtube.com/user/cs50tv)
@@ -11,6 +13,15 @@
 - Harvard CS50 Guide: How to Pick the Right Course for You ([freeCodeCamp article][cs50 freeCodeCamp])
 <br>
 
+Programming Foundations (linkedin learning)
+
+- Programming Foundations: [Real-World Examples]
+- Programming Foundations: [Foundamentals]
+- Programming Foundations: [Beyond the Fundamentals]
+<br>
+
+Python
+
 - Google Python class https://developers.google.com/edu/python
 <br>
 
@@ -18,15 +29,15 @@
 - Dive into Python ([book][dive into python])
 <br>
 
-- Programming Foundations: Real-World Examples [lynda.com/Python-tutorials][Programming-Fundamentals-Real-World]
-- Programming Foundations: [Fundamentals]
-- Programming Foundations: [Beyond the Fundamentals]
-<br>
-
 - Jessica McKellar A hands-on introduction to Python for beginning programmers ([video][Jessica McKellar introduction to Python])
 <br>
 
 - Variables in Python https://realpython.com/python-variables/
+<br>
+
+Free Online Courses
+
+- [class central](https://www.classcentral.com/)
 
 ## Databases
 - Stanford db course
@@ -35,7 +46,7 @@
 ## Object Oriented Programming
 
 
-## HTML, CSS
+## Web Development - HTML, CSS, JavaScript
 - HTML & CSS Design and Build Websites by Jon Duckett ([book][Jon Duckett HTML & CSS])
 
 
@@ -45,9 +56,11 @@
 [edx Introduction to Computer Science and Programming]: https://www.edx.org/course/introduction-to-computer-science-and-programming-7
 [Youtube Introduction to Computer Science]: https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d
 [Jessica McKellar introduction to Python]: https://www.youtube.com/watch?v=rkx5_MRAV3A
-[Programming-Fundamentals-Real-World]: https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html
-[Fundamentals]: https://www.lynda.com/JavaScript-tutorials/Programming-Foundations-Basics/779751-2.html
-[Beyond the Fundamentals]: https://www.lynda.com/Python-tutorials/Programming-Foundations-Beyond-Fundamentals/2818144-2.html
+
+[Real-World Examples]: https://www.linkedin.com/learning/programming-foundations-real-world-examples
+[Foundamentals]: https://www.linkedin.com/learning/programming-foundations-fundamentals-3
+[Beyond the Fundamentals]: https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals
+
 [Jon Duckett HTML & CSS]: https://wtf.tw/ref/duckett.pdf
 [cs50 web programming with python]: https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript
 [cs50 freeCodeCamp]: https://www.freecodecamp.org/news/harvard-cs50-guide/#cs50-the-expanded-offering
