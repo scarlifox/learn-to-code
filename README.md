@@ -2,14 +2,14 @@
 
 CS50
 
-- CS50's Introduction to Computer Science
-	- Online course at your own pace ([edx.org](https://www.edx.org/course/cs50s-introduction-to-computer-science))
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)   
+Online course at your own pace on edx.org
 	- [CS50 on Youtube](https://www.youtube.com/user/cs50tv)
 	- [CS50 Youtube playlists](https://www.youtube.com/user/cs50tv/playlists)
 	- [CS50 at Harvard College](https://cs50.harvard.edu/college/2023/spring/)
 
-- [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) Introduction to technology for students who don’t (yet!) consider themselves computer persons.
 - [CS50's Introduction to Programming with Scratch][cs50 scratch]
+- [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) Introduction to technology for students who don’t (yet!) consider themselves computer persons.
 - [CS50's Web Programming with Python and JavaScript][cs50 web programming with python]
 - Harvard CS50 Guide: How to Pick the Right Course for You ([freeCodeCamp article][cs50 freeCodeCamp])
 <br>
