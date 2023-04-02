@@ -9,6 +9,7 @@ CS50
 	- [CS50 at Harvard College](https://cs50.harvard.edu/college/2023/spring/)
 
 - [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) Introduction to technology for students who don’t (yet!) consider themselves computer persons.
+- [CS50's Introduction to Programming with Scratch][cs50 scratch]
 - [CS50's Web Programming with Python and JavaScript][cs50 web programming with python]
 - Harvard CS50 Guide: How to Pick the Right Course for You ([freeCodeCamp article][cs50 freeCodeCamp])
 <br>
@@ -38,6 +39,7 @@ Python
 Free Online Courses
 
 - [class central](https://www.classcentral.com/)
+- Course list by level ([freeCodeCamp article](https://www.freecodecamp.org/news/free-online-programming-cs-courses/))
 
 ## Databases
 - Stanford db course
@@ -55,6 +57,7 @@ Free Online Courses
 [MIT Introduction to Computer Science and Programming in Python]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
 [edx Introduction to Computer Science and Programming]: https://www.edx.org/course/introduction-to-computer-science-and-programming-7
 [Youtube Introduction to Computer Science]: https://www.youtube.com/watch?v=Q_itdXI3YeE&list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d
+[cs50 scratch]: https://www.classcentral.com/course/cs50s-introduction-to-programming-with-scratch-39309
 [Jessica McKellar introduction to Python]: https://www.youtube.com/watch?v=rkx5_MRAV3A
 
 [Real-World Examples]: https://www.linkedin.com/learning/programming-foundations-real-world-examples
