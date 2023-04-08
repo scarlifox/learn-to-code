@@ -35,23 +35,34 @@ Python
 <br>
 
 - Variables in Python https://realpython.com/python-variables/
-<br>
-
-Free Online Courses
-
-- [class central](https://www.classcentral.com/)
-- Course list by level ([freeCodeCamp article](https://www.freecodecamp.org/news/free-online-programming-cs-courses/))
 
 ## Databases
 - Stanford db course
 - Use the index Luke
 
-## Object Oriented Programming
-
 ## Web Development
 
 ### HTML, CSS, JavaScript
 - HTML & CSS Design and Build Websites by Jon Duckett ([book][Jon Duckett HTML & CSS])
+
+## Resources
+
+- [LinkedIn Learning](https://www.linkedin.com/learning/)  
+  Video courses
+- [O'Reilly Learning](https://www.torontopubliclibrary.ca/accessonline?recordId=EDB0099&urlRequest=https%3A%2F%2Fezproxy.torontopubliclibrary.ca%2Flogin%3Furl%3Dhttps%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Ftemporary-access%2F)  
+  Read books online, courses, videos
+- [Library Genesis](https://libgen.is/)  
+  Books
+- [Class Central](https://www.classcentral.com/)  
+  Free Online Courses
+  - Course list by level ([freeCodeCamp article](https://www.freecodecamp.org/news/free-online-programming-cs-courses/))
+
+### Scratch
+
+- [Learning Scratch](https://www.linkedin.com/learning/learning-scratch/) (linkedin)
+- [Scratch 3 Programming Playground](https://learning-oreilly-com.ezproxy.torontopubliclibrary.ca/library/view/scratch-3-programming/9781098128432/) (book)
+- [Scratch by Example: Programming for All Ages](https://learning-oreilly-com.ezproxy.torontopubliclibrary.ca/library/view/scratch-by-example/9781484219461/) (book)
+- [Learn to Program with Scratch](https://learning-oreilly-com.ezproxy.torontopubliclibrary.ca/library/view/learn-to-program/9781457185328/) (book)
 
 
 [dive into python3]: https://diveintopython3.problemsolving.io/
@@ -69,3 +80,5 @@ Free Online Courses
 [Jon Duckett HTML & CSS]: https://wtf.tw/ref/duckett.pdf
 [cs50 web programming with python]: https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript
 [cs50 freeCodeCamp]: https://www.freecodecamp.org/news/harvard-cs50-guide/#cs50-the-expanded-offering
+
+
